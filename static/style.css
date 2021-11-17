@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: black;
+}
+#Django {
+  position: absolute;
+  width: 1920px;
+  height: 1792px;
+
+  overflow: hidden;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#lians-jadan-O4fme2fyako-unspla {
+  position: absolute;
+  width: 1920px;
+  height: 2880px;
+  left: 0px;
+  top: -728px;
+  overflow: visible;
+}
+#Group_1 {
+  position: absolute;
+  width: 107px;
+  height: 107px;
+  left: 26px;
+  top: 36px;
+  overflow: visible;
+}
+#attachment_123821102 {
+  position: absolute;
+  width: 107px;
+  height: 107px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Group_2 {
+  position: absolute;
+  width: 1300px;
+  height: 536px;
+  left: 212px;
+  top: 1112px;
+  overflow: visible;
+}
+
+#Hello_My_name_is_Valentino_Fig_m {
+  left: 29px;
+  top: 47px;
+  position: absolute;
+  overflow: visible;
+  width: 1415px;
+  white-space: nowrap;
+  line-height: 64px;
+  margin-top: -22.5px;
+  text-align: left;
+  font-family: BPdotsDiamond;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  color: rgba(255, 255, 255, 1);
+}
+#Hello_Everyone_welcome_to_my_p {
+  opacity: 0.79;
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+  left: 609px;
+  top: 512px;
+  position: absolute;
+  overflow: visible;
+  width: 770px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Italianno;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 55px;
+  color: rgba(207, 207, 207, 1);
+  letter-spacing: 0.44px;
+}
